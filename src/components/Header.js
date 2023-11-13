@@ -92,10 +92,6 @@ const Header = () => {
         </div>
         )}
 
-        
-
-       
-
         <div className='col-span-1'>
             <img className='h-8' alt='user-icon' src='https://cdn-icons-png.flaticon.com/512/1144/1144760.png'/>
         </div>
